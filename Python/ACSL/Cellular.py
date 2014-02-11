@@ -1,6 +1,6 @@
 # Cellular Automata
 # Drew Higgins
-
+# Abdul Jabri
 grid = [[0 for x in xrange(10)] for x in xrange(10)] 
 
 class Grid:
